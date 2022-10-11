@@ -31,7 +31,7 @@ GameFi Model
 
 
 
-                                                              ***THE DETAILS***
+                                                           ***THE DETAILS***
 ## TOKEN MODEL x NUMERICAL SETTINGS
 
 
