@@ -24,7 +24,7 @@
 = higher levels == stronger votes
 = voting on upgrades, features additions
 
-GameFi Model 
+* GameFi Model 
 = one-token model vs two-token model
 = one token for governance, the other for security tied to real money.
 
