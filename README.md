@@ -30,8 +30,8 @@
 
 
 
+# DETAILS
 
-                                                           ***THE DETAILS***
 ## TOKEN MODEL x NUMERICAL SETTINGS
 
 
