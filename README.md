@@ -10,7 +10,7 @@
 = Tokens can be used for paying stuffs and governance.
 
 * Numerical setting 
-= what the f is that ?
+= Numerical design is the key for a game with long life. Numerical design involved in many things, such as role properties like health point, experience point, attack and defense point and level-up curve; and may also involved in numbers of the economic system, such as item prices, income and expense, etc. In Monetization Model Design, participants only take care of the parts related to economic system.
 
 * Token distribution
 = when you start the game, you get points 100 points to start. incentivization. 200 points = 2 tokens. 
