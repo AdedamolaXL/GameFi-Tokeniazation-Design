@@ -1,11 +1,11 @@
 # AILand_Tokenization
 
-# REQUIREMENTS 
+## REQUIREMENTS 
 * Provide a new token model and numerical settings for your chosen robo-vehicle (NEV) customization game design plan.
 * Design a token distribution mechanism for it, and must combine it with the Creator Economy.
 * Design a GameFi model that can combine with the governance of DAO.
 
-# SKETCH-IDEAS
+## SKETCH-IDEAS
 * Token model 
 = Tokens can be used for paying stuffs and governance.
 
@@ -30,13 +30,13 @@
 
 
 
-# DETAILS
+## DETAILS
 
-## TOKEN MODEL x NUMERICAL SETTINGS
+### TOKEN MODEL x NUMERICAL SETTINGS
 
 
-## TOKEN DISTRIBUTION x CREATOR ECONOMY
+### TOKEN DISTRIBUTION x CREATOR ECONOMY
 
-## GAMEFI MODEL x DAO GOVERNANCE
+### GAMEFI MODEL x DAO GOVERNANCE
 
 
