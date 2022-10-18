@@ -62,6 +62,8 @@ external assets input = finding ways in which players play/put in their money no
 non-monetary gains = extending game incentives to be beyond money
 
 ### 2. TOKEN DISTRIBUTION x CREATOR ECONOMY
+> High APR >> Many new users >> APR drops, lack of new users & token consumption >> excessive token in the system >> supply/> demand, price drops.
+
 Distributing tokens amongst players, and recognizing players as co-creators of the in-game assets being traded and used. To start with AILERS will be broadly divided into three groups: Beginner, Grinder, Flayer, Whaler with all AILERS starting as Beginners and then progress up the food-chain to be a whale. 
 When you start the game as a beginner, you get 100points(NS) to start with. To become a grinder, you have to grind and make 1000points at which point you can now exchange for utility tokens, 100points = 1 token.
 To become a flayer, you need to acquire 20 tokens. 10 utility tokens = 1 governance token.
