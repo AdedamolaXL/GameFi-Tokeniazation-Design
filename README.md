@@ -48,7 +48,18 @@
 
 ### 1. TOKEN MODEL x NUMERICAL SETTINGS
 
+What does a token model need?
+>input of external assets
+>diversified non-monetary gains
+>solve the cyclical contradiction of new demand of growing player vs new supply of tokens
+>pay attention to the utilization efficiency of the currency as well as game resources.
+> The leasing of the economic system
 
+=== external assets input + internal asset input = monetary gains + non monetary gains
+
+external assets input = finding ways in which players play/put in their money not just to make more money also includes alternatives ways of inviting investment; advertisment, sponsorships, partnerships, game-cobranding, IP operation
+
+non-monetary gains = extending game incentives to be beyond money
 
 ### 2. TOKEN DISTRIBUTION x CREATOR ECONOMY
 Distributing tokens amongst players, and recognizing players as co-creators of the in-game assets being traded and used. To start with AILERS will be broadly divided into three groups: Beginner, Grinder, Flayer, Whaler with all AILERS starting as Beginners and then progress up the food-chain to be a whale. 
