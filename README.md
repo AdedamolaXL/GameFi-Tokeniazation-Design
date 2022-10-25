@@ -1,9 +1,78 @@
 # AILand_Tokenization
 
+##OVERVIEW 
+This tokenziation model is loosely based on AILand ( as designed by agwisniewska). Set in a alternate year 2022 where futuristic AI-driven cars are active. Players undergo missions with the purpose of helping habitants of AILand to navigate their daily life by transporting them or their deliveries to their desired destinantion.
+
+This paper will focus on the design of a dual-token system connected with the numeric design of the game, with the aim of monetization which provides monetary and non-monetary benefits to gamers, investors, governors and developers as well.
+
+## UNDERSTANDING THE PROBLEMS
+1.  The relationship between the token model and the numeric design.
+2.  The distribution of the token 
+3.  The DAO governance
+
+### Numeric Design vs Token Model
+The numeric design will be the basis of the token model. The NEV-CAR is the central resource in this game. The player levels up when the car completes the mission. To complete the mission the player needs to get to the destination in time. Once the mission is completed the player is paid in in-game token (AUT). 
+
+Calculations. 
+
+Fee = Distance x Complexity of Mission.
+Distance (m). Minimum distance is 100m. 
+LVL1 = 100m 
+L2 = 300m
+L3 = 600m
+L4 = 1000m
+L5 = 1500m
+L6 = 2100m
+
+
+Complexity is how hard the mission, there are 10 acts of complexitites for each level.
+Thus, Fee = 100 x 2/10 = 20 AUT
+
+Hence the highest amount a player can earn at the highest level is 2100 AUT.
+
+For each mission, the distance generated will be random
+
+100m = 1min
+1/10 = x1
+
+Speed = 
+
+Acceleration
+
+
+Money Sinks.
+
+Electric Charging => 1000mH = 100% = 10mins driving time = 5 AUT.
+Solar panels (only accessible after L3) = unlimited driving time = 
+
+Repairs = Hits x Fragility = 2 x 8 = 16 AUT.
+
+Upgrades = 
+Motor = Top Speed = 
+Reducer, Wheels = Acceleration
+Nitro, ECU = Nitro 
+Battery, Charger = Power
+
+Unit Price x Class = 10 x 4 = 40 AUT.
+
+Ratings
+
+
 ## REQUIREMENTS 
 * Provide a new token model and numerical settings for your chosen robo-vehicle (NEV) customization game design plan.
 * Design a token distribution mechanism for it, and must combine it with the Creator Economy.
 * Design a GameFi model that can combine with the governance of DAO.
+
+### 1. TOKEN MODEL x NUMERICAL SETTINGS 
+The token economic model within the GameFi ecosystem involves the tokenization of the in-game currency for exchange of resources and source real-money revvenue. Coupled with the numerical setting, tokens may be used to buy and convert resources as well as serves as the basis of the governance system. 
+
+For AILand, using a dual token system - of utility(AIL) and governance token(SAIL).
+
+Numeric system - 
+resources you pay for - charging, upgrades, cars, repairs.
+points you win - ratings, clean body, passengers/day, beat competition. 
+
+Inflationary model, no cap. 
 
 ## SKETCH-IDEAS
 * Token model 
