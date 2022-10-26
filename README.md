@@ -62,10 +62,10 @@ Repairs = Number of Hits x Fragility of Cars = 2 x 8 = 16 AUT.
 
 **Upgrades
 
-Motor = Top Speed = 
-Reducer, Wheels = Acceleration
-Nitro, ECU = Nitro 
-Battery, Charger = Power
+* Motor = Top Speed 
+* Reducer, Wheels = Acceleration
+* Nitro, ECU = Nitro 
+* Battery, Charger = Power
 
 Unit Price x Class = 10 x 4 = 40 AUT.
 
