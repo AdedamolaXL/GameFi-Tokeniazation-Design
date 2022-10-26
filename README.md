@@ -1,6 +1,6 @@
 # AILand_Tokenization
 
-##OVERVIEW 
+## OVERVIEW 
 This tokenziation model is loosely based on AILand ( as designed by agwisniewska). Set in a alternate year 2022 where futuristic AI-driven cars are active. Players undergo missions with the purpose of helping habitants of AILand to navigate their daily life by transporting them or their deliveries to their desired destinantion.
 
 This paper will focus on the design of a dual-token system connected with the numeric design of the game, with the aim of monetization which provides monetary and non-monetary benefits to gamers, investors, governors and developers as well.
@@ -81,7 +81,38 @@ introducing randomness/scarcity to upgrades and cars.
 
 > Profit for player = Fee - (fuel + repairs)
 
+#### Tokenomics 
+External Asset Inputs + Internal Asset Inputs = Monetary Gains + Non-monetary Gains
 
+External Asset Input = advert placement, game-cobranding. 
+
+Maintaining the balance between the demand and supply of tokens. 
+
+Demand increases with the more players play the game while supply increases with the more players complete the missions. 
+
+In this game, demand will technically always be higher than the supply because it's impossible for the number of missions completed per day to be higher than the number of missions started per day. What we are really monitoring then is the rate of supply vs rate of demand i.e the rate at which players complete the game vs the rate at which players start the game. Hence as the number of players playing the game decreases, also the lesser the number of players completing the game. Hence in this case, supply is dependent on the demand.
+
+Hence the token price will fall, if players stop playing. The solution to figure out then is how to keep players playing the game. From the pure gamer perspective, this involves making the gameplay as exciting and addictive as possible which engages the player to keep playing, keeping the demand and consumption higher, hence the token price on a high.
+
+1. Controlling inflation and the supply of tokens is directly tantamount to controlling players progression in the game and how much they can earn at every period in time. This involves managing periods of player surge which is likely to occur in the beginning of the game. The gameplay at L1 doesn't provide much earnings, this encourages player investment to progress to L2. Player investment is important because it creates a group of core players who play the game for its own sake of competitiveness, leaving the period of actual earning in the game stimulates this same spirit. Stages between L2 - L3 are quite critical, here players are grinding hard to earn AUT tokens, AUT purpose however is for utility payment within the game and trading in the marketplace. It's only at L4 and beyond that players begin earning real money and by this time their is considerable investment in the game. From L4 and higher, players start earning AIL which is the governance and staking token which is direclty convertable to fiat currency.
+
+2. Introducing probabilities and unpredictability into AIL earnings. 
+AIL is calculated by;
+AIL = ratings + clean body + beat the opps + passengers per day.
+ratings = depends on the % time you are able to save by arriving at your destination earlier. this will always be variable.
+clean body = state of the car after a mission = durability - hits * viruses * obstacles (all of this negatives are random but are usually higher as you progress)
+passengers per day = no of missions completed/no of passengers carried.
+beat competitors = this is the damage you can cause!? * non monetary awards * titles.
+upgrades and car prices = price fluctuates with the game state
+
+3. AIL should be harder to acquire than AUT. It should also be consumed at critical stages when progressing to the next level. This aids game-longetivity and internal circulation. Token consumption should be higher than Token acquistion. Token consumption will be consistently spent on in-game resources which players need to get better. All transactions should be done within the game/marketplace using AUT/AIL and cashing out attracts a % levy.
+Levy is determined by:
+
+    Time: The longer you sell the equipment after acquiring it, the lower the tax will be
+    Quantity: The more quantity sold within a certain period, the higher the tax will be
+    Seniority: The more hours a player has spent and the more honors they have earned, the more tax relief they will receive
+
+4. The core asset of the game which is the NEV-CAR should be consistently upgraded and repaired 
 
 
 ####SKETCH
@@ -122,6 +153,12 @@ Players shoudld be incentiivized to upgrade their core assets, achieving the aim
 The governance token has been designed to be harder to come by to curb inflation, also exploiting it in critical stages close to the end of game season by consuming it is useful for internal circulation and game longetivity. Also if inflation becomes too high, it's neccessary to adjust the ratio between game token and governance token. also do they need to be independent of each other?
 
 Make the game formula had to exploit, make the reward system hard to predict. 
+
+Investors 
+* Seed Investors
+* Governors
+* Portfolio Investors
+* Crypto Traders
 
 ### 3. GAMEFI MODEL x DAO GOVERNANCE
 
