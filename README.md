@@ -22,11 +22,39 @@ points you win - ratings, clean body, passengers/day, beat competition.
 
 Inflationary model, no cap. 
 
+#### NUMERIC DESIGN
 The numeric design will be the basis of the token model. The NEV-CAR is the central resource in this game. The player levels up when the car completes the mission. To complete the mission the player needs to get to the destination in time. Once the mission is completed the player is paid in in-game token (AUT). 
 
-#### Calculations. 
+**NEV-CAR & CAR HEALTH**
+The core asset of the game is the NEV vehicle. Players get to train with a basic NEV-CAR in L1(which is the tutorial level), after which they will purchase cars and upgrades from the DeAuto garage. Important features of a car includes:
 
-> Fee = Distance x Complexity of Mission.
+*Charge*, is the electric fuel percentage of the car. All cars have a base charge of 60% when newly bought. Charge is a naturally depletive resource within the game. It depletes with car activity during missions in the game. Charging replenishes it and can be done in DeAuto garage, during this period, the car is not active and can't take part in missions.
+
+*Durability*, refers to how strong/fragile a car is. It's a measure to how much a car can withstand attacks like hits from other vehicles, virus attack, hacks from malevolent traditonal car owners and general obstacles within the game. Highly durable cars are often available in the higher levels than the lower levels because of price and the level of skill needed to acquire it. Hence at level 2, you may have a car with a durability of 30%. Durability takes a hit during attacks and can only be restored through repairs in the DeAuto garage. Highly skilled players or highly durable cars may be able to avoid attacks
+
+*Upgrades*, are tiny but effective improvements to existing car parts which can make the car more durable, charge faster, or store more charge. Beyond car health, upgrades also makes the car faster, have more utility for specific missions and design or more aesthetically beautiful.
+
+All of this features aggregate into the singular most important metric within the game Car Health(CH). CH is a measure of a car capability to carry out a mission, a car with a an high health level of say 92% is faster, stronger, while another with 13% is severly weak. At 0% the car automatically switches off and it's unable to take part in missions, hence earn money. Thus it's important in the game, to watch the car's health and improve it. This means charging it at appropiate times, buying more durable cars as the player progresses through missions.
+
+The calculation for CH;
+CH = Charge(50%) + Durability(40%) + Upgrades(10%)
+
+For example to calculate the car health of a NEV-CAR at level 1 in AILand with the following characteristics;
+Charge = 60%
+Durability = 20%
+Upgrades = 0.
+
+Car Health = (60 x 0.5) + (40 x 0.4) + (0) = 38%
+
+If a car runs out of health, it's unable to work and carry out missions. At lower levels where players can't have access to better cars with durability, they may need to focus on keeping their car charged consistently.
+
+**COMPLETING MISSIONS AND GETTING PAID**
+Completing missions, means getting paid, failure to complete means you don't get paid. Players are paid in AUT, the in-game currency for purchasing utilities.
+
+Fee calculations is based on the distance covered for and the mission's complexity. For example, a mission of level 2 complexity and distance of 200m;
+Fee = Distance x Complexity of Mission = 200 x 2/10 = 40 AUT.
+Thus if a player completes this particular mission, they automatically earn 40AUT.
+
 * Distance (m). Minimum distance is 100m. 
 *maximum for each level
 * L1 = 100m 
@@ -51,6 +79,10 @@ Speed =
 
 Acceleration
 
+**GENERAL NUMERIC METRICS AND THEIR RELATIONSHIP**
+
+**SUPPLY, DEMAND AND MONEY SINKS**
+
 
 #### Money Sinks.
 
@@ -66,6 +98,7 @@ Repairs = Number of Hits x Fragility of Cars = 2 x 8 = 16 AUT.
 * Reducer, Wheels = Acceleration
 * Nitro, ECU = Nitro 
 * Battery, Charger = Power
+* Utility, aesthetic = Design
 
 Unit Price x Class = 10 x 4 = 40 AUT.
 
@@ -113,6 +146,9 @@ Levy is determined by:
     Seniority: The more hours a player has spent and the more honors they have earned, the more tax relief they will receive
 
 4. The core asset of the game which is the NEV-CAR should be consistently upgraded and repaired 
+5. Players level at any point in the game becomes a source of self-identification and culture which creates a clear structure of different needs, benefits and perks. Tokens are distributed differently for each level.
+
+
 
 
 ####SKETCH
@@ -160,6 +196,6 @@ Investors
 * Portfolio Investors
 * Crypto Traders
 
-### 3. GAMEFI MODEL x DAO GOVERNANCE
+### 3. DAO GOVERNANCE
 
 
