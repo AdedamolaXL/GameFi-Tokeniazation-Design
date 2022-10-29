@@ -166,6 +166,31 @@ virus, and targetted hacks especially at the higher levels which serves to reduc
 Limited NFTs and car designs which don't affect gameplay advantage but is a sign of high status in the game, again this will be targetted at the higher level.
 
 
+
+Auctions are a special form of trading. 
+Players can auction off their stuff in auction season. The game itself can conduct its own auction. Creating an item out of thin air which players bid for.Cars can be put up for auction by players/special items?
+What type of auction to choose?
+how to auction?
+one item at a time
+a set of items in which the highest bidder gets the first pick, and so on and so forth. the last person can get nothing.
+To prevent a player from winning auctions in a row, after three wins, the next auction they are exempted.on
+auction in which something bad happens to the loser. auctions happen on each level. player auctions is general./
+all players pay their bid for set of items. single item only the highest bid pays.
+
+auction bids paid to the bank - deflation. redistributed later?
+if no one bids, withdraw the item or give a pre-designated person which people may not want to win. hence bidding.
+
+Trading
+Incentivizing trading by providing players with items which they don't currently need which they can trade for something they need. these can be unique items.
+
+Trading mechanics usually serve as a negative-feedback loop, especially within a closed economy. Players are generally more willing to offer favorable trades to those who are behind, while they expect to get a better deal from someone who is ahead (or else they won’t trade at all).
+
+Loans. Buying items on credit. Or rentin it. These deals are binding and players who fail to come through will be penalized.
+SOme resources are not tradeable, e.g Car Health, a car is tradeable but not its health or durability, these are features of a car anyway.
+Players can trade at any time but not during missions. Maybe freeze trading at some time.
+Trading tax to prevent trading coalitions. You can barter upgrades of the same class.
+
+
 #### Money Sinks.
 
 Electric Charging => 1000mH = 100% = 10mins driving time = 5 AUT.
