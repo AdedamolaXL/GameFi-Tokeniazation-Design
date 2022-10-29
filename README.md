@@ -80,6 +80,59 @@ Speed =
 Acceleration
 
 **GENERAL NUMERIC METRICS AND THEIR RELATIONSHIP**
+*BASIC FEATURES*
+*   Car - The NEV-CAR is a major resource in this game. Without a car, players can play and act on missions. At LVL1(tutorial) players can simply just he
+rent their vehicles, beyond that they have to buy their own cars. The choice to cars to pick from are unique to each level, you can use a LVL2 car in LVL3 because they have different characteristics. However you can buy as much as you can, customize, upgrade and then trade. A car's durability is its key feauture and determines its car health and capability to complete a mission. It can not be upgraded, though other features can be upgrades. These other features are:
+    * Acceleration
+        * Reducer
+        * Wheels
+    * Speed
+        * Motor
+    * Power
+        * Battery
+        * Charger 
+    * Antivirus
+    * Nitro
+        * Nitro
+        * ECU
+    * Design
+        * Utility
+        * Aesthetics
+    
+    * Durability
+
+Unit Price x Class = 10 x 4 = 40 AUT.
+* distance
+* complexity
+* time
+
+* DEPENDENT FEATURES*
+* Repair = Attacks x Fragility
+    * Attack is the number of times a car is attacked. Attacks can be:
+        * Hits (random)
+        * Viruses (general)
+        * Obstacles (general)
+        * Hacks (random + targeted)
+    * Fragility is inversely proportional to durability
+        
+* Charge = Battery level = Time
+
+
+* Ratings = Performance + Passengers/Day + Damage + Escapes 
+
+* Unique items
+
+
+distance ∝ time
+complexity ∝ time
+durability ∝ fragility
+
+When you start the game, you register with 30 AUT to play in LVL1. LVL is the tutorial level where∝
+
+Registration Fee Breakdown
+*reg fee* = 10 AUT 
+*rent fee* = 10 AUT 
+*charge* = variable tho full charge costs 10 AUT
 
 #### TOKENOMICS AND MODEL
 AILAND will run on a dual token model; one token for in-game transacetions and the other for governance and staking. Economics and trading will be based on the resources present within the game;
@@ -123,13 +176,7 @@ Repairs = Number of Hits x Fragility of Cars = 2 x 8 = 16 AUT.
 
 **Upgrades
 
-* Motor = Top Speed 
-* Reducer, Wheels = Acceleration
-* Nitro, ECU = Nitro 
-* Battery, Charger = Power
-* Utility, aesthetic = Design
 
-Unit Price x Class = 10 x 4 = 40 AUT.
 
 Ratings
 
