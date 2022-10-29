@@ -102,9 +102,9 @@ rent their vehicles, beyond that they have to buy their own cars. The choice to 
     * Durability
 
 Unit Price x Class = 10 x 4 = 40 AUT.
-* distance
-* complexity
-* time
+* Distance
+* Complexity
+* Time
 
 * DEPENDENT FEATURES*
 * Repair = Attacks x Fragility
