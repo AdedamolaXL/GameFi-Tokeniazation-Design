@@ -1,6 +1,6 @@
 # AILand_Tokenization
 
->>PDF FILE IS THE MOST RECENT, PLS DL :)
+## PLS NOTE >> PDF FILE IS THE MOST RECENT, PLS DL :)
 
 ## OVERVIEW 
 This tokenziation model is loosely based on AILand ( as designed by agwisniewska). Set in a alternate year 2022 where futuristic AI-driven cars are active. Players undergo missions with the purpose of helping habitants of AILand to navigate their daily life by transporting them or their deliveries to their desired destinantion.
