@@ -168,7 +168,6 @@ virus, and targetted hacks especially at the higher levels which serves to reduc
 Limited NFTs and car designs which don't affect gameplay advantage but is a sign of high status in the game, again this will be targetted at the higher level.
 
 
-
 Auctions are a special form of trading. 
 Players can auction off their stuff in auction season. The game itself can conduct its own auction. Creating an item out of thin air which players bid for.Cars can be put up for auction by players/special items?
 What type of auction to choose?
